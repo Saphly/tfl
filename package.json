@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "type": "module"
+}
